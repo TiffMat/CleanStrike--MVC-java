@@ -1,5 +1,6 @@
 # CleanStrike
 Game CleanStrike implemented in MVC framework
+
 A new game in carrom-board called ​Clean Strike is played by 2 players with multiple ​turn
 ​ s. A                 turn has a player attempting to strike a coin with the striker. Players alternate in taking turns.                 The game is described as follows: 
  
